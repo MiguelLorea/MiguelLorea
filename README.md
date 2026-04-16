@@ -1,7 +1,7 @@
 # Hi 👋, I'm Miguel Lorea Tannfeld (also known as Mike)
 
 I'm a self-taught frontend developer focused on building clear, fast and modern interfaces.  
-I enjoy solving real problems, improving flows, and leaving things more organized than I found them.
+I enjoy solving problems, improving flows, and leaving things more organized than I found them.
 
 ---
 
